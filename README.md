@@ -1,5 +1,6 @@
 # nosql-injection-defense
 
+This is our team's final project for Web Security. This code creates a web login portal using MongoDB that is vulnerable to NoSQL injection. Then, we patch the vulnerability using Natural Language Processing techniques to train and classify potentially malicious inputs. 
 
 ## How to set up your own MongoDB (3 ways):
 1. I've sent out invitations to your jhu emails, so you should have access to the cloud MongoDB database. Lmk if you have not received it or are having issues using it.
