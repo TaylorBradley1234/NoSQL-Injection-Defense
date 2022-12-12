@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "natural": "^5.2.3",
-    "train-test-split": "^1.0.0"
-  }
-}
